@@ -1,9 +1,12 @@
 # HttpError: ConnectFail ROBLOX
 The error itself:
---------------------------- Roblox ---------------------------
-Failed to download or apply critical settings, please check your internet connection. Error info: HttpError: ConnectFail
---------------------------- Retry Cancel ---------------------------
 
+--------------------------- Roblox ---------------------------
+
+Failed to download or apply critical settings, please check your internet connection. Error info: HttpError: ConnectFail
+
+--------------------------- Retry Cancel ---------------------------
+![ERROR](https://github.com/wikiepeidia/ROBLOX-HttpError-ConnectFail/blob/main/screenshot_1721565764.png)
 This script is mainly for Bee Swarm macroing, which checks for the strange HTTP error message on ROBLOX, presses retry, and the Natro macro will automatically restart. I have no idea why this happened during Beesmas. This weird error appears to occur only on ROBLOX; other websites are fine (the fact that if you use multiple ROBLOX instances, this error still appears even when one is running is odd. The router is useless).
 Credit: ChatGPT, GitHub Copilot
 Usage: Run the script, click start, and run your Natro macro.
