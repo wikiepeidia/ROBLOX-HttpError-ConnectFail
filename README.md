@@ -7,7 +7,9 @@ Failed to download or apply critical settings, please check your internet connec
 
 --------------------------- Retry Cancel ---------------------------
 ![ERROR](https://github.com/wikiepeidia/ROBLOX-HttpError-ConnectFail/blob/main/screenshot_1721565764.png)
-This script is mainly for Bee Swarm macroing, which checks for the strange HTTP error message on ROBLOX, presses retry, and the Natro macro will automatically restart. I have no idea why this happened during Beesmas. This weird error appears to occur only on ROBLOX; other websites are fine (the fact that if you use multiple ROBLOX instances, this error still appears even when one is running is odd. The router is useless).
+
+This script is mainly for Bee Swarm macroing, which checks for the strange HTTP error message on ROBLOX, presses retry, and the Natro macro will automatically restart. 
+This weird error appears to occur only on ROBLOX; other websites are fine (the fact that if you use multiple ROBLOX instances, this error still appears even when one is running is odd. The router is useless).
 Credit: ChatGPT, GitHub Copilot
 Usage: Run the script, click start, and run your Natro macro.
 Commands used:
@@ -25,3 +27,4 @@ Change the directory of 2 files to yours (copy as path).
 You can manually run these commands by executing `flushdns.bat`.
 Other options: reboot the router, PC (rebooting the PC usually fixes it, but it may recur after a few minutes), or reinstall Windows.
 Users: Those experiencing this while macroing, having ROBLOX issues, or facing delayed internet connections (taking 15 seconds to get a 3ms ping, then continuously getting the same ping every second).
+Please note that there are times when it may not work; in that case, please set your DNS to automatic.
