@@ -37,4 +37,4 @@ Other options: reboot the router, PC (rebooting the PC usually fixes it, but it 
 
 Users: Those experiencing this while macroing, having ROBLOX issues, or facing delayed internet connections (taking 15 seconds to get a 3ms ping, then continuously getting the same ping every second).
 
-Please note that there are times when it may not work; in that case, please set your DNS to automatic.
+Please note that there are times when it may not work; in that case, please set your DNS to automatic and check for other options
