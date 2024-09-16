@@ -10,7 +10,7 @@ Failed to download or apply critical settings, please check your internet connec
 
 This script is mainly for Bee Swarm macroing, which checks for the strange HTTP error message on ROBLOX, presses retry, and the Natro macro will automatically restart. 
 
-This weird error appears to occur only on ROBLOX; other websites are fine (the fact that if you use multiple ROBLOX instances, this error still appears even when one is running is odd. The router is useless).
+
 Credit: ChatGPT, GitHub Copilot
 
 Usage: Run the script, click start, and run your Natro macro.
@@ -37,4 +37,4 @@ Other options: reboot the router, PC (rebooting the PC usually fixes it, but it 
 
 Users: Those experiencing this while macroing, having ROBLOX issues, or facing delayed internet connections (taking 15 seconds to get a 3ms ping, then continuously getting the same ping every second).
 
-Please note that there are times when it may not work; in that case, please set your DNS to automatic and check for other options
+Please note that there are times when it may not work, especially if the Retry button contains dots around or dark mode,etc. 
